@@ -11,7 +11,7 @@
 // GLEW
 //#define GLEW_STATIC
 #include <GL/glew.h>
-
+//º”“ªæ‰ª∞ ‘ ‘
 // GLFW
 #include <GLFW/glfw3.h>
 // Light attributes
